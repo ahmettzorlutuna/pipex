@@ -1,6 +1,3 @@
-# pipex
-My école 42 pipex project
-
 # Pipex
 
 ## 📌 Proje Açıklaması
